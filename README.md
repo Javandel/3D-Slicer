@@ -15,5 +15,5 @@ Python module for 3D slicer
 5- you will see the "my menu" as shown in picture below
 
 
-![my menu]()
+![my menu](https://github.com/Javandel/3D-Slicer/blob/main/images/my%20menu.jpg)
 
