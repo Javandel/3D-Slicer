@@ -2,7 +2,7 @@
 Python module for 3D slicer
 
 
-1- Download ''' test2module.py'''
+1- Download `test2module.py`
 
 2- Open 3D Slicer
 
