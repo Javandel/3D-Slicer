@@ -6,7 +6,7 @@ Python module for 3D Slicer
 
 2- Open 3D Slicer
 
-2- give the path of the file to 3D Slicer
+2- Give the path of the file to 3D Slicer
 
 3- Download sample data  "MRHead"
 
@@ -16,4 +16,7 @@ Python module for 3D Slicer
 
 
 ![my menu](https://github.com/Javandel/3D-Slicer/blob/main/images/my%20menu02.jpg)
+
+
+6- Click on each button to see the results. Check one by one.
 
