@@ -1,5 +1,5 @@
 # 3D-Slicer
-Python module for 3D slicer
+Python module for 3D Slicer
 
 
 1- Download `test2module.py`
